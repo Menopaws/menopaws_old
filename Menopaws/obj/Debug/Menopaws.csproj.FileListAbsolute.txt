@@ -6,7 +6,6 @@
 /Users/luce/Documents/Development/Mobile Development/Xamarin/Menopaws/Menopaws/bin/Debug/Xamarin.Forms.Core.pdb
 /Users/luce/Documents/Development/Mobile Development/Xamarin/Menopaws/Menopaws/bin/Debug/Xamarin.Forms.Core.dll.mdb
 /Users/luce/Documents/Development/Mobile Development/Xamarin/Menopaws/Menopaws/bin/Debug/Xamarin.Forms.Core.xml
-/Users/luce/Documents/Development/Mobile Development/Xamarin/Menopaws/Menopaws/bin/Debug/Xamarin.Forms.Platform.pdb
 /Users/luce/Documents/Development/Mobile Development/Xamarin/Menopaws/Menopaws/bin/Debug/Xamarin.Forms.Xaml.pdb
 /Users/luce/Documents/Development/Mobile Development/Xamarin/Menopaws/Menopaws/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
 /Users/luce/Documents/Development/Mobile Development/Xamarin/Menopaws/Menopaws/bin/Debug/Xamarin.Forms.Xaml.xml
