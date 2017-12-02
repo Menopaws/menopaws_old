@@ -14,4 +14,7 @@
 /Users/luce/Documents/Development/Mobile Development/Xamarin/Menopaws/Menopaws/obj/Debug/Menopaws.App.xaml.g.cs
 /Users/luce/Documents/Development/Mobile Development/Xamarin/Menopaws/Menopaws/obj/Debug/Menopaws.dll
 /Users/luce/Documents/Development/Mobile Development/Xamarin/Menopaws/Menopaws/obj/Debug/Menopaws.pdb
-/Users/luce/Documents/Development/Mobile Development/Xamarin/Menopaws/Menopaws/obj/Debug/Menopaws.Views.MenopawsPage.xaml.g.cs
+/Users/luce/Documents/Development/Mobile Development/Xamarin/Menopaws/Menopaws/bin/Debug/MvvmHelpers.dll
+/Users/luce/Documents/Development/Mobile Development/Xamarin/Menopaws/Menopaws/bin/Debug/MvvmHelpers.pdb
+/Users/luce/Documents/Development/Mobile Development/Xamarin/Menopaws/Menopaws/bin/Debug/MvvmHelpers.xml
+/Users/luce/Documents/Development/Mobile Development/Xamarin/Menopaws/Menopaws/obj/Debug/Menopaws.Views.HomePageView.xaml.g.cs

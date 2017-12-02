@@ -1,11 +1,13 @@
 ﻿<Properties StartupConfiguration="{6C4D9C63-A3FF-400F-9F0E-E35CA21C47A8}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Menopaws/App.xaml.cs">
+    <Files>
+      <File FileName="Menopaws/Views/HomePageView.xaml" Line="4" Column="97" />
+      <File FileName="Menopaws/App.xaml.cs" Line="11" Column="31" />
+    </Files>
     <Pads>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
-          <Node name="Menopaws" expanded="True">
-            <Node name="Menopaws.UITests" expanded="True" />
-          </Node>
+          <Node />
         </State>
       </Pad>
     </Pads>

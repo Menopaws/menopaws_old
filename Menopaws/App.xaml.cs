@@ -8,7 +8,7 @@ namespace Menopaws
 		{
 			InitializeComponent();
 
-			MainPage = new MenopawsPage();
+			MainPage = new HomePageView();
 		}
 
 		protected override void OnStart()

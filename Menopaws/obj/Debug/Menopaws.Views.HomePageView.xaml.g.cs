@@ -12,12 +12,12 @@ namespace Menopaws {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/luce/Documents/Development/Mobile Development/Xamarin/Menopaws/Menopaws/Vi" +
-        "ews/MenopawsPage.xaml")]
-    public partial class MenopawsPage : global::Xamarin.Forms.ContentPage {
+        "ews/HomePageView.xaml")]
+    public partial class HomePageView : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(MenopawsPage));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(HomePageView));
         }
     }
 }
