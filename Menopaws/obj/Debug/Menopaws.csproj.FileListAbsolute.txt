@@ -13,6 +13,6 @@
 /Users/luce/Documents/Development/Mobile Development/Xamarin/Menopaws/Menopaws/obj/Debug/Menopaws.csprojResolveAssemblyReference.cache
 /Users/luce/Documents/Development/Mobile Development/Xamarin/Menopaws/Menopaws/obj/Debug/Menopaws.csproj.CoreCompileInputs.cache
 /Users/luce/Documents/Development/Mobile Development/Xamarin/Menopaws/Menopaws/obj/Debug/Menopaws.App.xaml.g.cs
-/Users/luce/Documents/Development/Mobile Development/Xamarin/Menopaws/Menopaws/obj/Debug/Menopaws.MenopawsPage.xaml.g.cs
 /Users/luce/Documents/Development/Mobile Development/Xamarin/Menopaws/Menopaws/obj/Debug/Menopaws.dll
 /Users/luce/Documents/Development/Mobile Development/Xamarin/Menopaws/Menopaws/obj/Debug/Menopaws.pdb
+/Users/luce/Documents/Development/Mobile Development/Xamarin/Menopaws/Menopaws/obj/Debug/Menopaws.Views.MenopawsPage.xaml.g.cs
