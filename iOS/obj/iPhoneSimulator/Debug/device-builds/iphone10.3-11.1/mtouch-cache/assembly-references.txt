@@ -33,3 +33,4 @@
 /Users/luce/Documents/Development/Mobile Development/Xamarin/Menopaws/packages/Xamarin.Forms.2.5.0.91635/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.3.0.47/lib/mono/Xamarin.iOS/Facades/System.Text.RegularExpressions.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.3.0.47/lib/mono/Xamarin.iOS/Facades/System.Diagnostics.Tools.dll
+/Users/luce/Documents/Development/Mobile Development/Xamarin/Menopaws/Menopaws/bin/Debug/MvvmHelpers.dll
