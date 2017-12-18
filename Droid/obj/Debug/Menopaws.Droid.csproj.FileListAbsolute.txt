@@ -49,3 +49,12 @@
 /Users/luce/Documents/Development/Mobile Development/Xamarin/Menopaws/Droid/bin/Debug/Xamarin.Forms.Core.dll.mdb
 /Users/luce/Documents/Development/Mobile Development/Xamarin/Menopaws/Droid/bin/Debug/Xamarin.Forms.Platform.Android.dll.mdb
 /Users/luce/Documents/Development/Mobile Development/Xamarin/Menopaws/Droid/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/luce/Documents/Development/Mobile Development/Xamarin/Menopaws/Droid/bin/Debug/MvvmHelpers.dll
+/Users/luce/Documents/Development/Mobile Development/Xamarin/Menopaws/Droid/bin/Debug/MvvmHelpers.pdb
+/Users/luce/Documents/Development/Mobile Development/Xamarin/Menopaws/Droid/bin/Debug/MvvmHelpers.xml
+/Users/luce/Documents/Development/Mobile Development/Xamarin/Menopaws/Droid/obj/Debug/res/drawable-xxxhdpi/kitteh.jpg
+/Users/luce/Documents/Development/Mobile Development/Xamarin/Menopaws/Droid/obj/Debug/res/drawable-xxhdpi/kitteh.jpg
+/Users/luce/Documents/Development/Mobile Development/Xamarin/Menopaws/Droid/obj/Debug/res/drawable-xhdpi/kitteh.jpg
+/Users/luce/Documents/Development/Mobile Development/Xamarin/Menopaws/Droid/obj/Debug/res/drawable-hdpi/kitteh.jpg
+/Users/luce/Documents/Development/Mobile Development/Xamarin/Menopaws/Droid/obj/Debug/res/drawable-mdpi/kitteh.jpg
+/Users/luce/Documents/Development/Mobile Development/Xamarin/Menopaws/Droid/obj/Debug/res/drawable-ldpi/kitteh.jpg

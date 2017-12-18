@@ -10,6 +10,7 @@ namespace Menopaws
 		public HomePageView()
 		{
 			InitializeComponent();
+			BindingContext = new HomePageViewModel();
 		}
 	}
 }

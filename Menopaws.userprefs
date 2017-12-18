@@ -1,24 +1,21 @@
-﻿<Properties StartupConfiguration="{E9C1443D-967A-43D6-8919-9AC541631A0C}|Default">
-  <MonoDevelop.Ide.ItemProperties.Menopaws.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Menopaws/Views/HomePageView.xaml">
+﻿<Properties StartupConfiguration="{6C4D9C63-A3FF-400F-9F0E-E35CA21C47A8}|Default">
+  <MonoDevelop.Ide.ItemProperties.Menopaws.Droid PreferredExecutionTarget="Android.Nexus6" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/LaunchScreen.storyboard">
     <Files>
-      <File FileName="Menopaws/Views/HomePageView.xaml" Line="4" Column="3" />
+      <File FileName="Menopaws/View/HomePageView.xaml" Line="8" Column="1" />
+      <File FileName="Menopaws/View/HomePageView.xaml.cs" Line="13" Column="45" />
+      <File FileName="Menopaws/ViewModel/HomePageViewModel.cs" Line="22" Column="7" />
+      <File FileName="Menopaws.Tests/Test.cs" Line="5" Column="9" />
+      <File FileName="iOS/LaunchScreen.storyboard" />
     </Files>
-    <Pads>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node />
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|iPhoneSimulator" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Menopaws.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7EE328FB-96F1-4029-B65F-4C022743C7DE">
+  <MonoDevelop.Ide.ItemProperties.Menopaws.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.">
     <MonoDevelop.MacDev.AppleDevelopmentTeam />
   </MonoDevelop.Ide.ItemProperties.Menopaws.iOS>
 </Properties>
